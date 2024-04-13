@@ -1,3 +1,9 @@
+#
+# https://realpython.com/python-namespaces-scope/
+#
+# Basado en `Example 2: Double Definition`
+#
+
 x = "global"
 def f():
     x = "enclosing"
